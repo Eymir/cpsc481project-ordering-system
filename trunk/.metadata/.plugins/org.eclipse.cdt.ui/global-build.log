@@ -1,0 +1,201 @@
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+Nothing to build for hello
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:21:2: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [enabled by default]
+d:\mingw\bin\../lib/gcc/mingw32/4.6.2/../../../../include/stdio.h:294:37: note: expected 'const char *' but argument is of type 'int'
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 322  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 321  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 2749  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 1618  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 315  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 9187  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 315  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 357  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 313  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 2567  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 321  ms.  
+
+**** Rebuild of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 10280  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 368  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 368  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:25:2: warning: format '%d' expects argument of type 'int', but argument 2 has type 'long int' [-Wformat]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 5951  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:25:2: warning: conversion lacks type at end of format [-Wformat]
+..\src\hello.c:25:2: warning: too many arguments for format [-Wformat-extra-args]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 366  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:25:2: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [enabled by default]
+d:\mingw\bin\../lib/gcc/mingw32/4.6.2/../../../../include/stdio.h:294:37: note: expected 'const char *' but argument is of type 'long int'
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 367  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:25:2: warning: too many arguments for format [-Wformat-extra-args]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 367  ms.  
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 371  ms.  
