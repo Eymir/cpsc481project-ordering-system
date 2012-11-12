@@ -1,0 +1,13 @@
+
+**** Build of configuration Debug for project hello ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o src\hello.o ..\src\hello.c
+..\src\hello.c: In function 'main':
+..\src\hello.c:17:2: warning: implicit declaration of function 'time' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: implicit declaration of function 'ctime' [-Wimplicit-function-declaration]
+..\src\hello.c:18:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+..\src\hello.c:28:2: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat]
+g++ -o hello.exe src\hello.o
+Build complete for project hello
+Time consumed: 371  ms.  
